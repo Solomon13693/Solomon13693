@@ -10,8 +10,7 @@ I am a dynamic **Web Developer** with expertise in **Laravel**, **React.js**, **
 - 🌟 **Frontend Development**: Design and develop responsive, user-friendly interfaces with **React.js**, **Next.js**, and **Tailwind CSS**.  
 - 🛠️ **Backend Solutions**: Build and maintain robust backend systems using **Laravel**, **Node.js**, and **Express.js** to ensure seamless integration and performance.  
 - 🔄 **API Development & Integration**: Design, implement, and optimize RESTful APIs for efficient data flow between systems.  
-- 🚀 **State Management**: Expertise in using **Redux** to build maintainable and scalable applications.  
-- 🔧 **Tools & Technologies**: Skilled in **Git**, **Firebase**, **Docker**, and **CI/CD pipelines** to streamline development workflows.  
+- 🚀 **State Management**: Expertise in using **Redux** to build maintainable and scalable applications. 
 
 ---
 
@@ -22,9 +21,3 @@ I am a dynamic **Web Developer** with expertise in **Laravel**, **React.js**, **
 - **GitHub**: [Solomon13693](https://github.com/Solomon13693)  
 
 ---
-
-## ⚡ Fun Fact  
-I enjoy exploring new technologies, solving challenging problems, and relaxing with chess or video games.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solomon13693&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon13693&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
